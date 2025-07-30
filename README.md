@@ -28,7 +28,7 @@ Query Language: SQL
 
 Schema: Music Store Database (Given Below)
 
-https://github.com/Gulshankr007/Music-Store-Analysis-Sql/blob/bf9a5f66d90ee13380513056e6c0e1410b2a8070/MusicDatabaseSchema.png
+![image alt](https://github.com/Gulshankr007/Music-Store-Analysis-Sql/blob/bf9a5f66d90ee13380513056e6c0e1410b2a8070/MusicDatabaseSchema.png)
 
 📊 Business Questions Answered
 ✅ Beginner-Level Queries
